@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# User Manager
+# User Manager (Dockerized Version)
 
 This repository contains a simple demo API built with NodeJS.
 The API is used to manage users in a MongoDB database.
